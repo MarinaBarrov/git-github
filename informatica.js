@@ -1,1 +1,1 @@
-Hola mundo.
+Hola mundo. Mi nombre es Bárbara Bermúdez, tengo 22 años, vivo en Villa Carlos Paz. Soy estudiante de la carrera Certified Tech Developer.
